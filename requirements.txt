@@ -1,2 +1,2 @@
 Django==2.0
-grimoire-elk
+grimoire-elk>=0.63.0
